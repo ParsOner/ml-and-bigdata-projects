@@ -1,3 +1,0 @@
-!mkdir -p /content/big-data
-!mkdir -p /content/machine-learning
-!ls /content
