@@ -1,11 +1,7 @@
 # Machine Learning & Big Data — Project Portfolio
 
 **University of Naples Federico II**  
-Polytechnic and Basic Sciences School · Department of Industrial Engineering  
 Master's Degree in Autonomous Vehicle Engineering  
-**Course:** Machine Learning and Big Data · Academic Year 2024-2025  
-**Author:** Mustafa Oner — D18000070
-
 ---
 
 ## Repository Structure
